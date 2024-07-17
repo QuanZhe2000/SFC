@@ -1,0 +1,797 @@
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000008.jpg 192,16,364,249,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000014.jpg 72,163,302,228,5 185,194,500,316,6 416,180,500,222,6 314,8,344,65,14 331,4,361,61,14 357,8,401,61,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000035.jpg 1,96,191,361,14 218,98,465,318,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000053.jpg 36,12,425,262,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000055.jpg 209,132,275,222,13 219,107,273,187,14 436,279,456,327,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000057.jpg 133,53,385,358,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000081.jpg 235,158,462,282,17 198,156,341,231,14 349,145,451,266,14 61,162,170,333,14 29,166,73,213,14 298,246,433,333,14 196,215,332,330,14 270,298,324,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000086.jpg 308,131,356,173,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000119.jpg 107,96,309,348,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000120.jpg 66,121,440,276,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000122.jpg 36,20,430,474,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000130.jpg 4,1,500,249,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000134.jpg 1,115,487,330,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000149.jpg 114,2,351,361,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000156.jpg 41,73,381,352,17 432,103,496,144,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000194.jpg 86,36,239,224,12 115,19,203,136,14 279,77,298,132,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000208.jpg 330,223,500,375,8 117,114,180,219,8 59,122,131,255,8 203,151,436,308,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000210.jpg 443,211,468,235,14 15,214,37,240,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000220.jpg 40,127,464,292,6 427,114,500,167,6 265,147,312,187,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000235.jpg 243,255,316,375,8 40,266,277,375,10 415,192,457,254,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000239.jpg 63,26,468,219,5 1,138,33,206,14 29,166,82,238,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000243.jpg 181,127,274,193,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000257.jpg 82,1,183,57,19 20,142,222,375,14 175,68,472,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000258.jpg 192,123,404,333,11 350,27,500,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000276.jpg 129,163,230,319,14 162,373,260,500,14 32,373,140,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000277.jpg 14,104,479,321,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000285.jpg 224,77,462,375,14 37,97,231,375,14 369,203,437,375,8 120,220,229,375,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000295.jpg 362,195,404,246,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000307.jpg 2,3,500,375,15 1,229,40,375,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000330.jpg 188,46,304,208,14 82,53,388,333,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000338.jpg 197,91,216,116,14 82,73,384,203,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000346.jpg 124,107,230,343,4 137,78,497,375,14 89,202,129,247,14 72,209,111,259,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000352.jpg 33,68,149,247,14 131,68,210,249,14 198,59,309,284,14 294,83,500,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000363.jpg 59,15,220,239,2 161,122,500,333,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000375.jpg 3,1,489,340,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000384.jpg 174,27,454,292,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000398.jpg 78,1,396,417,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000432.jpg 220,202,275,239,9 316,203,376,239,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000438.jpg 240,56,432,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000449.jpg 1,1,500,298,3 416,61,480,193,14 210,118,306,208,14 129,94,199,209,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000457.jpg 1,99,304,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000462.jpg 1,3,465,375,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000465.jpg 1,134,500,316,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000585.jpg 2,11,494,332,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000587.jpg 281,117,444,266,14 209,153,328,269,14 187,168,268,273,14 23,151,212,375,14 348,255,433,375,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000601.jpg 300,1,500,168,15 168,34,420,190,15 1,57,450,348,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000616.jpg 354,150,458,414,14 53,99,326,408,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000617.jpg 11,85,500,375,10 353,1,500,239,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000620.jpg 114,182,303,309,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000627.jpg 56,107,317,306,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000629.jpg 34,84,500,184,18 87,100,107,124,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000651.jpg 87,4,496,373,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000652.jpg 7,53,268,375,8 125,18,392,375,14 40,64,202,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000662.jpg 46,23,478,242,17 4,69,432,197,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000664.jpg 51,2,325,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000671.jpg 48,330,268,471,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000692.jpg 104,33,359,208,14 127,193,472,332,11 127,2,315,95,15 1,2,497,334,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000706.jpg 224,187,287,235,0 139,244,199,285,0 48,284,111,330,0 118,161,180,213,0 9,107,73,156,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000710.jpg 143,177,225,270,7 188,182,303,464,8 95,129,136,249,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000716.jpg 96,56,315,445,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000718.jpg 148,25,358,374,11 2,1,223,249,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000720.jpg 217,118,305,263,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000734.jpg 275,89,341,256,14 382,178,460,283,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000738.jpg 1,124,496,235,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000739.jpg 404,30,500,374,14 386,83,479,374,14 272,65,415,374,14 239,55,335,374,14 165,55,252,374,14 97,66,193,374,14 3,26,108,374,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000793.jpg 289,100,316,183,14 241,111,270,180,14 218,107,236,178,14 402,67,467,259,14 65,110,84,161,14 96,107,114,159,14 100,78,190,282,14 151,160,310,280,1 2,80,51,135,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000809.jpg 252,119,500,213,6 118,123,149,138,6 1,124,133,201,6 26,124,479,269,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000811.jpg 149,133,337,269,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000814.jpg 59,63,268,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000822.jpg 98,165,230,346,13 231,168,353,323,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000836.jpg 69,99,224,297,14 93,162,226,442,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000843.jpg 170,127,312,219,19 351,54,426,304,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000854.jpg 168,176,415,282,17 2,189,128,338,8 1,2,102,249,15 309,158,387,311,14 262,153,315,308,14 215,150,269,301,14 33,176,154,331,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000879.jpg 102,95,266,375,12 252,132,320,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000887.jpg 25,49,473,247,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000914.jpg 51,2,374,423,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000956.jpg 163,227,398,375,19 185,56,500,374,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000977.jpg 149,271,179,295,6 36,262,94,309,6 178,245,263,319,6 258,266,293,296,6 321,253,397,333,6 327,259,454,332,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000992.jpg 436,197,500,268,16 362,198,440,280,16 137,204,221,300,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/000998.jpg 2,80,333,500,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001049.jpg 103,68,256,165,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001053.jpg 24,11,285,482,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001069.jpg 264,75,438,136,6 1,117,117,181,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001074.jpg 74,54,422,208,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001096.jpg 175,39,334,225,14 150,141,371,322,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001105.jpg 2,219,335,375,10 203,88,423,374,14 443,42,500,375,14 124,176,142,239,4 83,188,113,254,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001110.jpg 19,73,264,305,7 254,66,498,326,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001130.jpg 114,107,296,266,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001141.jpg 355,85,404,110,3 261,172,412,368,3 217,118,242,209,14 171,124,197,195,14 146,118,176,212,14 51,192,99,308,14 12,194,53,311,14 219,23,245,41,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001154.jpg 1,233,174,375,17 134,230,171,274,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001159.jpg 2,240,500,373,17 238,241,314,340,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001185.jpg 197,199,289,323,7 78,78,289,375,14 452,131,500,253,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001210.jpg 277,259,307,316,14 279,186,309,262,14 224,214,250,306,14 196,199,220,276,14 5,202,45,307,14 2,204,16,280,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001217.jpg 31,142,224,330,11 237,94,500,200,11 274,259,475,375,11 201,160,500,326,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001246.jpg 178,202,473,376,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001270.jpg 31,126,448,234,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001291.jpg 8,15,500,365,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001367.jpg 115,65,265,240,19 267,59,440,241,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001370.jpg 44,217,190,500,1 199,195,301,464,1 22,48,221,454,14 196,57,331,420,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001372.jpg 300,76,333,233,14 185,72,294,476,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001376.jpg 383,241,426,274,6 202,186,306,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001388.jpg 2,2,500,414,17 61,9,432,400,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001398.jpg 18,5,216,175,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001418.jpg 32,34,344,473,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001423.jpg 124,56,382,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001426.jpg 4,185,331,498,13 3,3,222,498,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001429.jpg 420,98,473,226,4 453,71,498,184,4 1,54,498,369,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001458.jpg 106,121,392,299,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001487.jpg 242,117,277,151,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001490.jpg 199,105,382,326,11 296,111,326,171,4 276,107,303,166,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001492.jpg 185,168,487,316,6 45,157,104,187,6 1,158,43,189,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001504.jpg 146,422,161,484,14 190,420,212,489,14 259,422,281,493,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001514.jpg 12,52,312,333,14 219,131,467,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001525.jpg 158,151,320,222,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001530.jpg 7,54,500,338,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001546.jpg 94,59,410,330,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001581.jpg 3,17,139,500,14 134,163,333,476,14 209,167,332,390,14 175,112,264,210,14 254,125,333,349,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001599.jpg 250,146,323,232,8 163,149,239,239,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001603.jpg 320,125,383,199,14 371,45,422,108,14 362,71,450,111,1 312,160,414,214,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001604.jpg 8,107,234,230,6 110,126,291,264,6 245,88,500,340,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001639.jpg 128,52,500,334,11 80,187,360,334,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001649.jpg 12,53,438,499,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001654.jpg 28,169,86,248,1 137,164,303,303,1 253,187,433,316,1 274,100,402,275,14 145,66,284,266,14 28,121,85,214,14 117,131,167,259,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001679.jpg 2,235,391,500,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001681.jpg 276,166,417,251,2 277,251,418,339,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001707.jpg 10,130,378,499,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001720.jpg 105,214,130,295,4 164,214,189,295,4 5,142,175,374,14 116,136,202,242,14 220,133,316,206,14 298,138,394,246,14 264,150,486,374,14 12,198,355,362,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001735.jpg 92,83,238,375,8 146,56,368,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001752.jpg 3,4,375,500,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001783.jpg 72,189,297,261,0 369,195,500,261,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001787.jpg 147,101,277,347,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001788.jpg 99,36,468,301,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001792.jpg 425,27,489,212,14 404,18,442,63,14 380,38,433,212,14 351,25,380,71,14 320,39,378,214,14 298,21,341,71,14 275,35,322,215,14 233,40,281,211,14 183,34,231,206,14 134,51,179,206,14 90,50,133,226,14 7,31,84,231,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001807.jpg 290,115,411,224,12 201,136,296,216,12 54,105,196,192,12 330,100,363,194,14 238,103,267,185,14 113,85,150,169,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001820.jpg 93,71,435,316,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001834.jpg 46,39,456,304,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001850.jpg 108,125,500,271,0 253,209,280,295,14 227,221,257,293,14 227,185,256,301,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001854.jpg 52,38,277,499,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001858.jpg 17,99,475,216,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001899.jpg 397,195,478,243,6 298,195,335,227,6 108,212,147,238,6 22,209,48,226,6 167,206,225,289,13 174,177,225,267,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001920.jpg 33,28,337,321,14 322,4,456,114,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001952.jpg 26,26,475,372,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001955.jpg 247,183,296,239,12 212,178,248,226,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001957.jpg 144,18,438,390,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001962.jpg 407,99,500,333,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001973.jpg 144,39,304,256,7 79,26,236,254,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001978.jpg 139,151,210,321,14 355,130,411,315,14 134,194,166,268,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001985.jpg 81,92,238,486,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/001994.jpg 210,141,420,240,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002040.jpg 78,38,432,334,6 366,20,500,103,6 462,2,500,111,14 408,13,436,104,14 316,7,344,59,14 64,26,97,125,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002042.jpg 75,182,260,360,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002055.jpg 15,248,151,368,11 64,146,229,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002058.jpg 111,67,500,239,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002059.jpg 18,89,425,375,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002081.jpg 211,141,344,252,19 1,182,87,281,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002092.jpg 105,324,215,412,9 11,342,91,424,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002102.jpg 36,57,486,261,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002104.jpg 224,16,380,330,14 38,82,478,302,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002109.jpg 137,72,290,182,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002112.jpg 136,2,375,500,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002132.jpg 184,155,306,249,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002135.jpg 1,132,30,171,6 26,131,69,160,6 58,125,110,157,6 258,118,285,140,6 218,126,265,160,6 266,128,363,203,6 332,139,375,241,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002140.jpg 39,86,256,215,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002156.jpg 114,213,223,370,8 226,206,323,349,8 394,193,465,278,8 15,200,118,355,8 468,191,500,238,8 33,167,300,305,10 334,100,399,285,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002174.jpg 19,60,496,302,6 451,89,500,186,6 377,90,390,121,14 397,93,419,141,14 431,115,453,152,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002178.jpg 100,136,460,320,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002186.jpg 233,158,297,255,14 300,35,351,117,8 204,37,263,140,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002197.jpg 1,116,330,336,6 335,131,500,209,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002210.jpg 2,92,368,375,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002215.jpg 353,44,497,227,7 251,43,370,219,7 134,8,267,206,7 28,11,125,152,7 13,55,174,258,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002225.jpg 81,238,460,359,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002227.jpg 419,64,500,135,19 33,20,450,330,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002252.jpg 337,116,492,324,19 26,5,357,344,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002259.jpg 69,75,500,196,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002267.jpg 65,194,165,308,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002292.jpg 83,225,310,375,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002293.jpg 2,47,264,500,14 87,131,287,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002308.jpg 174,81,340,361,7 43,249,139,432,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002309.jpg 61,43,400,319,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002317.jpg 111,3,500,280,5 221,168,278,371,14 167,192,224,375,14 150,159,206,374,14 26,121,76,272,14 1,123,20,275,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002335.jpg 1,54,500,375,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002336.jpg 3,94,447,286,2 1,180,174,375,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002338.jpg 239,111,365,207,16 176,114,254,196,16 146,90,167,114,16 426,84,454,108,16 462,92,487,115,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002344.jpg 3,44,333,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002349.jpg 159,164,298,242,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002355.jpg 18,137,488,314,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002357.jpg 39,171,437,329,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002421.jpg 249,29,323,247,14 128,83,426,301,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002435.jpg 161,1,342,224,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002438.jpg 43,283,269,500,14 113,2,375,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002448.jpg 169,93,279,281,14 41,146,360,435,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002464.jpg 292,110,366,199,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002475.jpg 306,228,370,314,1 225,213,288,301,1 151,204,217,294,1 72,188,142,279,1 310,173,363,299,14 312,146,405,316,14 235,161,284,280,14 256,139,302,299,14 149,154,206,267,14 171,125,235,290,14 75,141,133,258,14 92,122,164,282,14 263,125,283,166,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002477.jpg 61,57,292,189,18 340,79,410,228,14 1,32,72,295,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002481.jpg 15,19,316,426,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002502.jpg 12,114,275,412,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002504.jpg 272,319,320,348,6 371,311,398,330,6 423,313,464,335,6 459,313,496,334,6 318,310,347,337,6 98,310,139,327,6 151,305,186,374,14 87,320,113,374,14 129,316,156,374,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002516.jpg 215,160,337,375,14 328,140,499,375,14 349,224,496,375,14 28,84,312,375,14 278,32,302,89,14 285,44,319,102,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002527.jpg 1,40,373,500,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002531.jpg 12,85,490,353,6 344,46,378,89,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002536.jpg 3,136,489,330,10 246,117,266,180,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002541.jpg 34,61,474,283,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002546.jpg 196,17,440,375,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002568.jpg 86,37,394,332,13 3,12,120,140,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002570.jpg 2,2,375,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002573.jpg 317,160,427,239,12 369,158,500,261,12 255,140,316,178,12 302,135,369,179,12 116,148,270,276,12 58,154,177,246,12 426,117,471,220,14 370,121,402,174,14 175,117,206,230,14 89,128,108,162,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002582.jpg 78,62,322,409,18 43,322,89,453,14 130,337,170,442,14 361,271,375,372,14 343,270,364,366,14 330,298,347,364,14 320,274,344,351,14 25,287,40,317,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002592.jpg 43,4,427,333,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002616.jpg 18,16,381,249,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002623.jpg 1,1,455,375,9 402,252,500,350,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002627.jpg 101,221,238,298,17 22,211,79,275,19 4,335,375,500,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002633.jpg 136,152,315,412,12 179,101,246,311,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002639.jpg 345,158,402,284,14 240,141,307,301,14 185,156,242,301,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002660.jpg 233,162,500,375,14 121,124,271,251,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002685.jpg 266,111,327,207,2 200,71,233,110,2 183,84,260,173,2 355,72,416,162,2 422,166,500,305,2 148,61,173,102,2 41,55,65,105,2 82,171,308,375,2 1,128,125,259,2 22,113,136,172,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002687.jpg 12,169,166,375,14 44,79,407,357,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002691.jpg 1,232,192,365,11 64,27,478,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002699.jpg 89,119,427,236,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002706.jpg 119,61,351,330,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002718.jpg 138,38,407,298,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002719.jpg 53,100,468,238,3 158,130,188,168,14 183,108,206,136,14 144,107,167,132,14 87,126,122,150,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002738.jpg 35,90,99,165,3 36,90,120,180,3 34,162,89,205,3 283,125,309,162,3 323,116,354,165,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002768.jpg 305,72,396,299,14 264,199,357,290,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002769.jpg 6,45,495,276,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002771.jpg 63,7,265,242,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002777.jpg 270,194,318,273,8 321,216,500,375,8 143,220,214,301,8 206,223,284,330,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002778.jpg 54,220,103,258,8 101,223,150,262,8 16,235,63,301,8 62,262,132,315,8 129,271,206,330,8 210,281,285,342,8 322,294,395,375,8 144,100,198,141,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002788.jpg 52,142,249,272,10 5,114,129,176,10 319,70,500,334,14 235,70,336,334,14 249,70,273,112,14 133,194,215,300,8 30,183,135,298,8 8,163,95,269,8 2,135,57,194,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002803.jpg 225,154,375,312,8 107,145,263,294,8 376,109,443,183,8 312,107,390,151,8 196,109,288,159,8 146,114,208,170,8 302,85,333,125,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002812.jpg 236,198,366,260,6 13,142,227,261,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002814.jpg 38,202,321,381,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002836.jpg 254,135,320,266,2 125,142,205,255,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002873.jpg 140,196,245,221,0 425,219,450,237,16 370,220,398,241,16 159,276,190,294,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002882.jpg 388,278,418,300,16 177,263,193,282,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002911.jpg 156,100,298,257,14 114,65,393,333,14 4,224,89,332,14 64,228,125,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002913.jpg 176,108,473,166,18 196,122,217,183,14 13,123,39,182,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002922.jpg 274,365,319,443,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002936.jpg 2,21,447,325,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002949.jpg 1,36,346,202,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002963.jpg 72,36,500,375,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002970.jpg 2,71,444,374,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002974.jpg 118,238,242,390,14 90,164,146,220,14 339,124,375,202,14 283,152,340,230,14 156,126,364,411,14 78,223,151,338,8 1,212,101,337,10 24,208,90,314,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002976.jpg 3,199,240,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/002984.jpg 185,132,247,171,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003028.jpg 1,42,499,293,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003031.jpg 6,89,493,315,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003035.jpg 54,193,306,486,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003055.jpg 171,129,347,190,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003099.jpg 3,2,304,232,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003107.jpg 1,131,274,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003115.jpg 201,149,453,324,17 196,133,252,226,8 156,129,205,220,8 288,99,460,368,14 36,50,115,271,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003121.jpg 2,16,282,333,12 210,50,482,333,14 468,170,500,333,14 438,146,489,241,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003124.jpg 54,29,475,325,13 308,2,395,125,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003142.jpg 52,39,402,344,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003145.jpg 17,27,351,375,14 315,39,500,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003151.jpg 46,201,161,354,1 80,105,224,313,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003156.jpg 112,88,415,265,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003186.jpg 1,169,214,288,17 295,158,347,223,8 220,168,263,221,8 263,136,302,166,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003228.jpg 305,104,394,183,6 453,112,482,175,14 11,227,80,325,11 2,37,217,200,5 205,84,295,162,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003233.jpg 1,78,498,344,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003244.jpg 1,142,498,245,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003246.jpg 21,101,500,375,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003267.jpg 2,69,500,333,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003287.jpg 1,9,333,242,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003303.jpg 197,175,282,308,14 62,162,149,304,14 212,212,260,347,12 78,221,132,339,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003342.jpg 341,203,412,241,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003354.jpg 93,75,256,223,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003363.jpg 2,233,314,479,6 300,259,334,291,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003371.jpg 269,78,500,372,7 6,46,281,315,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003391.jpg 120,223,187,375,14 77,278,263,375,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003394.jpg 35,26,371,375,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003427.jpg 65,18,500,375,7 1,1,500,374,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003445.jpg 25,115,493,223,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003450.jpg 183,125,266,354,14 238,133,356,276,14 135,168,235,285,14 22,133,423,370,17 360,58,480,195,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003456.jpg 2,5,500,337,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003459.jpg 387,207,500,335,8 114,186,393,375,10 390,114,494,319,14 317,141,387,242,14 1,160,140,375,14 132,100,176,164,14 132,67,160,139,14 301,204,328,284,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003470.jpg 66,2,295,462,14 17,47,86,198,14 48,36,79,127,14 79,31,105,119,14 88,52,128,116,14 272,24,303,87,14 299,64,322,103,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003472.jpg 367,164,493,284,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003475.jpg 79,56,471,254,5 270,161,316,285,14 222,165,261,229,14 1,232,53,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003479.jpg 84,29,403,333,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003483.jpg 208,104,365,330,14 31,181,79,227,14 1,176,18,235,14 1,171,499,333,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003486.jpg 8,104,204,181,6 5,102,333,482,6 1,79,43,181,14 171,84,189,132,14 150,93,174,124,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003489.jpg 280,32,456,257,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003505.jpg 179,161,312,337,13 189,84,306,293,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003519.jpg 114,84,316,375,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003535.jpg 10,52,305,264,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003561.jpg 2,125,333,500,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003566.jpg 223,291,243,338,4 113,133,227,340,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003583.jpg 59,105,388,318,12 178,4,287,318,14 459,181,480,292,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003599.jpg 126,34,376,327,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003610.jpg 1,51,375,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003634.jpg 268,102,471,215,6 46,105,200,195,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003656.jpg 34,37,91,84,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003657.jpg 198,221,360,292,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003658.jpg 25,10,496,333,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003676.jpg 43,177,150,294,8 135,118,204,257,15 115,146,148,187,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003678.jpg 237,70,334,143,19 237,88,490,326,14 1,1,157,257,14 65,236,103,332,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003688.jpg 2,2,267,333,14 233,79,496,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003705.jpg 196,100,270,176,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003707.jpg 397,43,434,81,4 100,22,500,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003727.jpg 121,148,291,429,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003732.jpg 2,203,57,454,14 21,217,128,499,14 67,1,375,500,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003736.jpg 84,58,392,375,8 393,153,500,375,8 134,59,340,375,14 145,181,205,274,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003750.jpg 361,163,449,362,9 125,50,353,262,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003813.jpg 1,8,305,333,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003815.jpg 188,108,433,213,6 242,11,274,95,14 288,125,333,149,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003829.jpg 1,34,438,333,18 385,158,415,227,14 433,189,456,259,14 472,181,487,219,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003843.jpg 119,44,500,308,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003853.jpg 292,176,358,245,8 348,129,388,180,8 346,143,492,245,14 2,157,119,245,14 63,127,134,214,14 33,100,73,148,14 256,55,338,183,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003857.jpg 3,6,375,394,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003868.jpg 2,235,500,374,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003878.jpg 58,2,500,375,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003901.jpg 6,89,338,492,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003902.jpg 3,234,375,500,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003903.jpg 394,1,500,331,14 278,2,422,332,14 131,62,330,332,14 90,2,308,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003912.jpg 114,100,487,394,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003917.jpg 121,1,500,216,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/003934.jpg 1,115,85,264,19 144,259,268,375,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004011.jpg 87,97,415,267,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004012.jpg 53,120,294,500,14 66,226,229,472,14 1,113,375,500,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004034.jpg 102,118,375,458,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004050.jpg 24,32,471,357,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004074.jpg 1,20,242,375,14 194,11,460,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004103.jpg 189,233,229,298,12 187,199,231,268,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004136.jpg 71,101,451,338,1 146,32,323,368,14 447,36,500,91,6 342,26,394,49,6 205,18,281,59,6 83,19,132,39,6 20,19,43,35,6 311,29,344,44,6 141,1,314,45,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004160.jpg 146,99,357,199,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004185.jpg 27,89,464,279,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004194.jpg 320,274,401,397,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004195.jpg 22,184,187,312,12 89,156,129,241,14 149,220,199,309,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004210.jpg 314,24,425,120,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004211.jpg 74,382,209,497,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004214.jpg 185,101,361,231,13 214,67,312,212,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004243.jpg 1,174,106,308,13 85,164,213,291,13 174,163,263,261,13 235,156,334,244,13 305,136,402,230,13 372,161,426,215,13 456,132,500,181,13 423,132,465,196,13 47,117,91,244,14 454,114,472,146,14 405,120,425,155,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004246.jpg 98,148,242,375,14 34,4,428,299,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004254.jpg 77,109,450,299,6 1,111,116,206,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004258.jpg 1,2,343,207,3 252,46,307,117,14 91,32,123,63,14 309,57,353,118,14 351,42,379,111,14 43,2,76,110,14 75,3,104,74,14 411,46,453,96,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004271.jpg 212,270,254,347,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004272.jpg 163,146,367,394,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004276.jpg 54,100,291,256,17 265,85,375,351,14 109,157,248,382,14 80,98,138,238,14 22,79,39,107,15 9,77,26,107,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004288.jpg 207,135,390,375,11 4,57,500,368,17 30,5,280,374,14 244,3,500,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004304.jpg 173,119,430,302,6 52,22,160,352,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004310.jpg 92,110,291,228,7 1,1,433,328,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004313.jpg 12,180,479,411,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004343.jpg 82,36,496,283,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004368.jpg 268,147,482,252,9 13,146,210,240,9 119,155,281,258,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004371.jpg 243,223,410,279,3 443,240,500,288,3 431,229,488,282,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004413.jpg 58,6,466,333,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004427.jpg 94,32,281,375,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004428.jpg 113,68,268,266,11 1,1,258,248,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004429.jpg 11,118,496,336,6 71,8,220,124,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004440.jpg 87,4,461,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004448.jpg 94,50,274,287,13 233,58,398,252,13 380,61,483,234,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004451.jpg 7,252,187,375,15 37,169,172,261,15 153,222,238,349,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004455.jpg 164,116,256,206,7 81,1,473,325,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004463.jpg 99,124,395,308,13 100,87,175,324,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004471.jpg 10,90,151,485,14 137,92,236,452,14 197,77,281,479,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004483.jpg 1,89,441,318,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004490.jpg 117,51,423,354,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004491.jpg 157,147,399,368,8 185,134,333,283,14 435,261,500,375,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004501.jpg 362,121,495,375,11 9,223,232,362,11 185,192,394,371,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004508.jpg 37,53,61,129,4 373,209,386,265,4 380,215,397,268,4 19,98,282,331,14 443,3,500,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004516.jpg 235,126,323,333,14 316,179,382,333,14 317,89,446,333,14 179,81,259,132,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004554.jpg 80,16,475,284,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004589.jpg 87,38,391,335,12 221,40,317,180,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004591.jpg 139,158,264,199,18 307,266,500,333,6 326,247,500,307,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004595.jpg 159,77,333,358,11 250,1,500,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004601.jpg 151,100,266,317,13 200,43,332,308,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004617.jpg 143,183,239,254,16 334,129,424,187,16 329,208,378,251,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004619.jpg 175,87,500,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004629.jpg 58,106,221,277,12 171,114,309,269,12 332,133,436,265,12 91,60,152,216,14 204,68,257,218,14 332,80,385,148,14 304,119,348,269,14 336,122,382,273,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004641.jpg 79,73,479,365,13 171,4,348,310,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004661.jpg 93,92,489,375,14 1,138,212,312,14 107,139,500,373,8 74,120,282,292,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004665.jpg 96,124,282,190,3 198,220,258,238,3 205,193,227,229,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004716.jpg 29,133,207,287,19 212,5,404,307,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004739.jpg 245,171,375,500,14 191,191,333,500,14 63,157,234,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004754.jpg 1,270,133,500,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004761.jpg 2,26,375,450,14 25,165,375,500,1 3,1,71,121,14 119,1,173,40,14 259,1,324,206,14 319,2,360,110,14 317,61,375,143,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004779.jpg 114,203,284,291,6 143,188,185,304,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004811.jpg 84,202,375,386,1 153,11,284,457,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004824.jpg 36,92,220,214,0 129,3,316,133,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004826.jpg 61,224,261,361,9 395,152,443,257,14 444,146,476,183,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004836.jpg 1,147,474,446,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004845.jpg 3,1,334,333,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004862.jpg 1,358,50,500,8 232,366,260,393,15 227,295,269,351,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004871.jpg 67,88,478,361,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004876.jpg 26,91,61,208,2 152,151,177,237,2 404,141,443,194,2 202,149,224,203,2 313,119,338,184,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004878.jpg 36,129,432,375,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004882.jpg 93,142,184,274,13 197,69,446,330,13 153,126,312,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004908.jpg 76,47,293,426,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004922.jpg 216,125,369,192,4 105,42,291,332,14 202,1,500,330,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004936.jpg 2,1,500,357,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004937.jpg 29,126,67,228,14 100,103,129,216,14 119,103,144,138,14 143,84,232,231,14 243,103,303,213,14 83,2,415,326,3 223,298,500,375,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004945.jpg 121,41,357,357,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004956.jpg 115,226,151,266,19 127,245,177,293,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004972.jpg 115,78,344,482,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/004977.jpg 1,1,464,280,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005003.jpg 188,161,251,192,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005010.jpg 49,138,357,312,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005021.jpg 40,107,476,252,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005029.jpg 421,107,492,156,1 378,34,439,86,1 249,99,315,152,1 178,111,246,159,1 380,13,427,70,14 437,80,487,140,14 259,79,308,142,14 188,87,240,147,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005069.jpg 1,36,337,241,18 142,224,243,394,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005079.jpg 22,110,454,305,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005110.jpg 83,33,384,152,6 405,96,461,142,6 2,158,133,287,6 126,176,189,232,6 180,186,206,217,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005120.jpg 21,224,333,477,1 41,75,206,298,14 101,5,235,245,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005124.jpg 179,68,500,324,9 3,33,271,324,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005148.jpg 231,95,422,375,14 5,114,243,375,14 1,89,129,320,14 348,162,412,278,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005165.jpg 61,71,473,333,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005187.jpg 51,100,298,295,19 62,117,231,253,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005190.jpg 128,25,447,375,14 1,133,126,307,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005192.jpg 272,41,500,146,6 54,15,479,310,6 1,39,197,230,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005200.jpg 97,12,445,144,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005203.jpg 118,103,332,351,11 3,2,499,375,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005215.jpg 62,2,500,375,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005236.jpg 80,75,266,375,14 174,145,307,375,12 297,57,433,375,14 366,89,465,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005246.jpg 84,48,493,387,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005262.jpg 372,205,500,298,6 14,159,53,185,6 80,114,342,241,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005267.jpg 68,51,404,310,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005273.jpg 108,55,285,156,6 235,84,418,153,6 336,12,415,160,14 397,50,439,154,14 1,112,305,357,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005275.jpg 32,131,478,331,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005276.jpg 15,199,77,340,1 66,223,202,313,1 178,213,327,375,1 171,107,287,375,14 2,110,86,322,14 120,115,189,326,14 82,132,135,326,14 468,276,479,311,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005291.jpg 31,13,485,375,14 379,45,430,138,14 462,43,500,123,14 430,43,467,128,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005304.jpg 264,75,391,282,4 1,2,472,400,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005305.jpg 74,358,266,462,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005322.jpg 41,8,273,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005332.jpg 224,151,262,194,1 336,126,369,188,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005364.jpg 91,18,297,500,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005371.jpg 22,206,214,333,2 89,14,499,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005384.jpg 12,2,500,375,18 313,133,456,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005405.jpg 71,151,276,401,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005414.jpg 59,105,217,333,13 265,121,443,333,13 196,40,290,330,14 283,55,433,330,14 432,95,487,150,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005415.jpg 413,234,465,293,7 331,244,415,294,7 358,228,428,280,7 355,66,418,234,14 206,82,265,246,14 63,61,138,276,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005435.jpg 114,220,375,425,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005436.jpg 349,124,466,182,13 37,141,172,210,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005441.jpg 302,291,373,358,4 3,63,77,375,14 61,90,99,189,14 54,112,178,372,14 165,72,254,374,14 260,62,355,375,14 383,62,450,117,14 305,93,472,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005456.jpg 263,91,320,201,12 110,29,212,213,12 116,14,179,126,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005468.jpg 16,37,472,457,13 199,13,386,438,14 380,107,500,232,6 3,98,153,204,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005469.jpg 43,101,500,333,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005479.jpg 133,19,337,287,14 105,74,331,293,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005486.jpg 41,71,454,322,6 252,69,500,195,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005503.jpg 72,60,489,324,1 359,50,490,290,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005510.jpg 3,25,498,328,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005515.jpg 1,177,332,500,15 1,1,121,366,15 45,1,371,269,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005521.jpg 69,146,458,374,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005526.jpg 412,275,500,375,19 1,4,268,375,14 219,116,457,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005530.jpg 4,164,164,303,5 99,169,281,303,5 214,173,355,283,5 286,175,433,285,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005535.jpg 82,1,433,308,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005536.jpg 43,116,426,321,6 267,113,380,321,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005547.jpg 171,175,320,368,9 48,150,447,347,6 439,148,471,269,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005603.jpg 1,33,409,333,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005607.jpg 174,121,344,263,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005617.jpg 199,142,346,270,9 66,71,160,267,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005633.jpg 15,80,306,142,0 26,49,486,212,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005635.jpg 1,107,144,375,4 122,185,199,375,4 185,195,311,375,4 105,81,206,220,4 201,60,303,274,4 284,58,362,269,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005636.jpg 131,184,209,382,12 254,211,318,386,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005669.jpg 254,151,341,202,6 409,135,500,199,5 160,87,194,220,14 1,1,154,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005682.jpg 85,3,404,375,14 5,2,162,174,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005688.jpg 170,44,459,251,7 72,123,387,334,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005726.jpg 2,39,374,500,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005742.jpg 422,226,472,254,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005754.jpg 8,201,180,372,17 195,189,278,298,8 408,198,455,276,14 464,174,500,280,14 196,223,214,266,15 295,146,366,203,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005757.jpg 107,167,172,301,1 214,188,253,271,1 108,75,178,280,14 210,131,252,253,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005761.jpg 21,54,381,361,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005762.jpg 325,390,375,485,15 228,426,301,500,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005773.jpg 65,200,163,357,14 138,239,215,365,14 171,171,303,365,14 306,284,371,394,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005774.jpg 19,69,433,478,13 131,22,305,414,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005777.jpg 128,192,500,333,1 1,167,203,331,1 185,1,470,333,14 3,34,183,331,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005780.jpg 213,111,304,197,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005785.jpg 172,114,331,251,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005796.jpg 45,57,294,500,14 300,275,375,387,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005797.jpg 1,107,270,365,9 320,125,493,340,14 93,3,163,143,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005810.jpg 91,33,500,279,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005822.jpg 161,200,422,500,14 80,19,491,500,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005823.jpg 91,163,255,280,19 1,8,155,500,14 137,344,308,500,14 238,108,372,415,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005829.jpg 41,15,189,327,14 174,92,363,327,14 372,137,500,327,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005836.jpg 71,40,263,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005840.jpg 1,136,118,500,14 77,160,245,500,14 212,160,303,500,14 326,180,493,500,14 258,165,381,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005864.jpg 126,161,316,268,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005888.jpg 277,40,500,373,11 13,69,334,375,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005895.jpg 274,204,316,235,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005907.jpg 258,141,322,237,8 115,48,289,395,14 227,1,500,395,14 8,39,144,194,14 36,48,87,147,14 64,62,102,111,14 89,67,142,116,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005917.jpg 315,160,493,360,8 156,130,259,237,8 123,203,158,225,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005924.jpg 65,61,427,304,6 1,137,40,227,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005930.jpg 48,81,213,197,1 12,16,48,176,14 412,97,443,136,14 64,7,170,180,14 411,119,454,151,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005932.jpg 312,298,388,330,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005950.jpg 229,114,440,218,3 92,89,288,213,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005966.jpg 86,115,281,375,14 260,88,500,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005969.jpg 41,59,353,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/005993.jpg 104,43,412,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006022.jpg 175,3,388,500,15 1,1,222,351,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006031.jpg 20,109,475,315,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006037.jpg 101,21,312,182,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006038.jpg 176,220,256,257,6 373,233,447,315,13 379,195,429,290,14 397,203,443,292,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006067.jpg 41,184,291,257,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006074.jpg 244,208,500,345,19 1,188,220,345,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006116.jpg 169,98,343,232,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006131.jpg 289,95,446,264,19 416,115,500,284,19 1,107,138,277,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006134.jpg 125,99,442,318,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006174.jpg 49,76,388,374,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006176.jpg 4,2,281,479,14 203,4,497,479,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006182.jpg 90,94,439,274,11 74,78,232,141,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006188.jpg 50,102,390,335,1 279,123,342,186,15 174,182,241,237,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006196.jpg 68,1,500,373,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006212.jpg 7,151,475,339,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006216.jpg 6,2,485,370,13 83,85,444,281,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006236.jpg 4,204,339,423,13 302,235,375,500,13 98,115,220,441,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006247.jpg 2,63,454,358,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006248.jpg 217,65,279,228,14 180,39,229,276,14 41,46,225,309,14 253,16,500,336,14 63,143,195,182,4 3,267,33,329,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006257.jpg 23,138,480,328,17 312,145,356,227,14 252,179,331,290,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006263.jpg 11,81,493,238,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006289.jpg 12,178,171,419,8 105,122,256,339,14 160,202,436,499,14 349,157,428,276,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006327.jpg 44,61,237,342,5 311,219,334,310,14 279,231,297,283,14 266,229,283,293,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006351.jpg 89,55,390,375,14 358,119,465,230,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006377.jpg 79,117,391,282,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006397.jpg 47,44,427,174,6 19,60,178,171,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006402.jpg 30,73,65,157,4 71,75,107,162,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006420.jpg 1,176,111,269,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006445.jpg 65,156,401,459,12 174,101,299,272,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006448.jpg 344,69,392,250,4 395,109,427,235,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006481.jpg 74,29,443,324,6 412,7,436,163,14 383,26,412,136,14 330,7,366,98,14 355,17,383,82,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006500.jpg 288,224,330,328,4 233,216,270,314,4 186,207,224,297,4 146,200,183,285,4 111,195,144,273,4 69,161,108,266,4 34,156,72,257,4 11,155,40,250,4 1,151,19,241,4 371,95,415,217,4 326,94,367,213,4 289,94,327,203,4 252,92,290,202,4 225,95,257,188,4 190,93,225,191,4 167,96,195,185,4 141,94,169,186,4 107,98,142,179,4 290,171,332,231,4 210,161,247,282,4 154,158,197,232,4 110,153,149,224,4 86,100,114,178,4 63,98,94,176,4 46,99,69,151,4 384,1,429,128,4 338,1,382,128,4 295,1,344,132,4 252,1,288,128,4 213,1,249,125,4 177,3,213,123,4 149,6,179,124,4 127,9,156,125,4 106,11,132,121,4 81,11,111,119,4 61,11,88,120,4 13,19,40,98,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006521.jpg 205,128,298,273,14 221,195,284,351,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006538.jpg 119,94,308,258,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006539.jpg 260,112,500,375,14 2,45,234,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006544.jpg 78,284,483,500,1 107,88,374,495,14 353,101,437,233,14 422,114,500,241,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006562.jpg 281,116,399,234,9 181,108,281,235,9 87,87,171,236,9 1,15,74,237,9 60,160,100,222,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006578.jpg 93,52,292,334,14 4,168,275,428,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006601.jpg 128,107,363,290,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006621.jpg 142,2,426,120,17 159,166,290,343,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006625.jpg 284,151,319,177,6 120,141,179,213,6 17,146,111,243,6 102,153,152,266,14 69,157,100,261,14 19,156,58,283,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006634.jpg 147,216,448,335,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006673.jpg 394,42,445,234,3 353,81,390,207,3 309,52,372,246,3 294,110,324,196,3 242,70,275,212,3 230,117,245,189,3 214,112,239,201,3 187,114,210,195,3 171,107,206,223,3 137,105,171,213,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006677.jpg 1,279,75,458,8 67,235,333,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006679.jpg 327,117,488,331,16 31,88,189,317,16 164,29,334,309,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006683.jpg 29,20,357,372,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006694.jpg 100,52,500,248,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006705.jpg 128,147,257,224,8 191,200,286,282,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006710.jpg 202,85,287,375,14 258,67,418,375,14 412,100,466,262,14 108,57,215,375,14 468,117,500,231,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006716.jpg 263,151,449,268,2 163,118,339,236,2 67,158,180,291,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006747.jpg 139,3,341,334,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006763.jpg 1,108,345,239,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006772.jpg 243,58,419,349,14 88,70,270,349,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006776.jpg 271,144,446,363,15 363,64,461,232,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006785.jpg 3,10,485,308,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006790.jpg 273,188,485,305,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006819.jpg 92,185,309,333,10 97,167,146,290,8 129,178,206,328,8 217,209,286,337,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006824.jpg 127,3,382,287,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006830.jpg 1,180,109,366,10 227,128,448,375,14 67,120,230,375,14 1,92,43,182,14 130,92,383,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006842.jpg 258,70,481,288,19 29,70,256,283,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006898.jpg 216,274,308,500,14 1,359,63,490,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006903.jpg 216,1,496,373,14 1,2,247,375,14 255,96,384,253,11 100,149,214,341,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006905.jpg 130,1,500,374,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006918.jpg 149,112,418,300,6 1,147,172,230,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006922.jpg 126,71,480,227,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006923.jpg 126,149,207,275,8 265,136,372,286,8 11,181,172,311,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006924.jpg 2,40,265,488,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006938.jpg 4,158,131,375,14 432,122,500,371,14 404,173,489,326,14 118,120,331,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006982.jpg 220,130,281,224,12 333,107,363,157,12 220,99,278,195,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/006988.jpg 62,66,387,307,6 78,114,128,139,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007015.jpg 102,92,424,236,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007056.jpg 1,1,230,500,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007070.jpg 132,4,464,332,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007072.jpg 2,25,394,372,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007076.jpg 152,114,314,219,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007080.jpg 104,2,377,323,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007107.jpg 185,152,500,264,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007110.jpg 1,205,28,294,19 357,210,492,348,8 349,214,494,375,8 1,238,373,375,10 463,121,500,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007124.jpg 19,36,172,451,14 75,215,192,500,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007130.jpg 106,96,192,188,19 221,80,295,157,19 355,109,475,171,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007154.jpg 68,29,260,500,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007158.jpg 36,92,375,500,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007160.jpg 2,133,329,500,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007167.jpg 9,98,347,219,6 51,107,500,306,6 338,114,388,171,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007172.jpg 143,239,324,336,1 327,142,430,273,1 139,89,179,155,14 121,32,341,336,14 344,57,433,252,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007179.jpg 172,133,225,166,6 1,57,187,333,14 159,79,389,333,14 386,104,500,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007186.jpg 383,145,447,302,14 233,138,267,249,14 120,97,174,275,14 22,90,86,323,14 211,123,268,161,1 165,163,246,245,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007187.jpg 14,149,422,308,17 1,121,238,224,14 277,120,473,223,14 153,101,348,334,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007192.jpg 1,109,500,375,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007197.jpg 92,57,364,334,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007200.jpg 46,61,446,297,13 394,1,500,233,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007205.jpg 130,149,201,220,6 10,188,141,325,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007232.jpg 24,185,82,343,14 24,260,82,366,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007260.jpg 64,159,367,446,12 149,71,267,303,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007273.jpg 75,121,486,268,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007276.jpg 272,101,374,226,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007287.jpg 30,47,341,269,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007292.jpg 1,74,500,330,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007337.jpg 236,265,290,307,6 344,268,414,296,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007366.jpg 2,392,95,500,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007384.jpg 22,4,101,113,8 129,84,355,384,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007387.jpg 19,25,484,245,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007401.jpg 48,94,183,207,17 193,90,245,150,8 261,90,299,124,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007407.jpg 125,134,371,236,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007414.jpg 453,50,491,110,14 187,107,386,196,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007416.jpg 223,101,369,317,7 1,2,459,349,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007426.jpg 119,62,488,330,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007428.jpg 158,1,266,220,3 42,32,109,157,14 72,73,146,220,14 120,105,216,223,14 124,70,182,184,14 112,45,153,82,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007435.jpg 8,320,108,500,8 10,288,332,500,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007442.jpg 2,67,500,374,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007470.jpg 143,32,371,277,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007481.jpg 61,53,362,317,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007488.jpg 54,1,500,374,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007496.jpg 163,1,500,375,14 4,93,281,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007544.jpg 294,109,341,142,19 340,163,482,311,8 190,188,274,344,8 124,190,192,347,8 54,206,132,372,8 2,201,225,311,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007549.jpg 311,1,395,160,15 351,1,500,233,15 139,2,345,223,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007551.jpg 49,65,252,485,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007564.jpg 322,155,372,203,19 294,211,357,310,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007572.jpg 2,97,315,234,10 40,100,67,181,4 19,99,38,174,4 265,46,491,333,14 4,53,235,331,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007585.jpg 131,14,466,364,11 178,322,258,482,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007586.jpg 1,145,241,248,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007621.jpg 301,102,411,202,16 175,113,285,209,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007630.jpg 140,59,362,394,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007640.jpg 78,121,500,307,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007652.jpg 16,51,498,305,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007672.jpg 1,166,128,316,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007674.jpg 20,79,489,264,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007676.jpg 79,47,500,333,0 1,246,23,270,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007680.jpg 55,70,194,124,2 158,18,271,199,2 226,43,315,110,2 271,174,332,375,2 21,164,128,375,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007681.jpg 45,91,394,336,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007691.jpg 270,85,500,321,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007707.jpg 29,153,139,293,2 129,181,199,287,2 181,206,285,339,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007713.jpg 123,47,373,322,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007717.jpg 4,112,472,296,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007744.jpg 443,160,489,305,4 378,164,440,307,4 384,131,439,225,4 341,154,373,293,4 309,133,355,313,4 278,153,308,293,4 238,126,287,312,4 219,174,246,295,4 173,140,224,309,4 140,168,180,294,4 93,142,140,308,4 38,170,82,307,4 4,170,36,286,4 168,110,217,170,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007749.jpg 128,23,500,375,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007758.jpg 54,50,196,215,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007777.jpg 2,196,370,374,10 1,105,102,242,14 178,85,291,228,14 300,130,407,288,14 370,172,500,374,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007812.jpg 1,199,65,301,8 122,237,269,375,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007820.jpg 5,19,500,257,0 277,74,431,139,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007831.jpg 49,227,180,412,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007861.jpg 125,28,367,184,6 56,77,79,126,14 47,80,63,131,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007869.jpg 38,76,369,332,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007879.jpg 109,11,469,250,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007887.jpg 2,2,320,325,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007914.jpg 62,114,352,414,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007926.jpg 1,276,346,337,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007929.jpg 80,172,171,409,14 172,176,277,359,14 156,137,280,459,14 254,137,479,462,14 312,150,426,413,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007930.jpg 205,274,422,354,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007949.jpg 386,186,486,276,5 279,181,396,292,5 178,176,291,306,5 3,157,192,344,5
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007970.jpg 101,146,326,299,6 296,163,500,248,6 224,142,263,184,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007980.jpg 187,43,298,220,3 323,193,384,218,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/007985.jpg 1,1,500,297,0 229,104,305,330,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008007.jpg 139,1,460,309,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008018.jpg 1,124,416,338,17 2,105,326,338,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008047.jpg 85,252,289,472,19 150,1,324,184,6 250,30,375,349,6 121,1,170,107,6 98,1,133,71,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008072.jpg 81,191,329,322,10 293,106,348,175,14 385,109,450,182,14 272,127,397,318,14 135,102,203,198,14 189,92,257,185,14 68,99,154,212,14 3,97,148,325,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008073.jpg 194,221,470,375,10 162,209,264,364,8 181,231,292,374,8 291,273,437,375,8 82,56,161,348,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008080.jpg 160,188,488,374,11 86,110,479,362,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008104.jpg 1,76,458,282,0 231,204,266,282,14 409,189,450,310,14 362,188,401,311,14 341,190,376,303,14 472,193,499,274,14 444,192,474,262,14 426,186,447,258,14 135,204,192,222,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008123.jpg 323,109,374,149,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008125.jpg 2,1,335,450,5 142,146,232,241,14 44,153,136,241,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008127.jpg 193,224,500,334,10 268,109,341,205,15 346,129,449,247,14 225,149,328,255,14 58,77,178,334,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008131.jpg 295,41,498,375,14 87,79,252,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008148.jpg 127,32,381,375,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008149.jpg 2,22,412,375,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008154.jpg 1,123,500,266,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008170.jpg 9,1,194,374,14 301,49,401,333,14 234,57,259,114,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008172.jpg 200,134,445,442,11 57,14,479,488,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008184.jpg 108,366,208,500,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008186.jpg 2,4,484,442,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008189.jpg 315,155,472,270,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008205.jpg 91,69,227,181,12 144,22,179,130,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008207.jpg 375,18,492,193,14 301,37,396,193,14 206,46,356,195,14 143,39,231,193,14 106,51,167,193,14 11,90,108,193,14 8,243,172,398,14 159,264,227,338,14 144,264,309,398,14 270,264,330,361,14 308,306,357,398,14 329,243,447,395,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008217.jpg 44,146,337,323,3 293,184,306,213,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008218.jpg 194,90,495,375,14 124,334,164,375,14 100,273,139,361,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008232.jpg 348,282,384,372,14 376,280,406,375,14 112,280,157,374,14 424,287,471,372,14 220,153,252,193,14 59,146,83,251,14 167,159,418,245,6 67,149,274,231,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008237.jpg 54,35,289,204,18 330,166,344,224,14 220,184,256,244,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008242.jpg 7,41,415,373,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008249.jpg 32,98,465,212,3 337,32,432,150,14 229,61,340,161,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008322.jpg 100,29,248,294,11 235,46,500,310,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008341.jpg 1,119,266,333,17 371,117,500,333,8 79,88,203,333,14 295,96,425,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008378.jpg 77,86,479,263,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008392.jpg 1,63,500,375,17 100,97,356,315,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008405.jpg 315,50,435,161,19 181,58,288,160,19 73,50,192,161,19 157,123,177,170,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008423.jpg 1,72,399,322,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008424.jpg 198,404,333,500,15 140,341,270,461,15 75,120,258,390,15 28,221,79,291,15 29,197,100,226,15 8,130,85,197,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008432.jpg 54,232,315,436,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008479.jpg 135,102,401,271,6 443,159,500,222,6 389,170,422,209,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008482.jpg 168,152,404,240,6 46,117,80,203,14 385,132,409,198,14 417,130,439,197,14 433,125,463,200,14 482,131,500,198,14 476,125,491,198,14 77,136,156,170,6 105,122,127,171,14 143,121,166,174,14 2,121,47,159,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008483.jpg 202,137,348,186,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008486.jpg 156,231,215,291,19 169,241,296,438,8 1,309,138,500,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008495.jpg 216,101,426,261,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008516.jpg 153,43,500,375,7 267,201,379,258,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008529.jpg 1,349,265,500,10 109,196,277,439,10 4,189,150,367,14 62,170,142,293,14 114,157,191,277,14 177,150,248,234,14 247,157,330,251,14 266,194,375,425,14 242,312,375,500,14 8,108,45,172,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008534.jpg 143,21,487,387,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008549.jpg 278,37,472,160,6 99,29,440,309,6 17,18,82,145,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008557.jpg 151,135,213,193,19 23,127,49,173,15 1,150,19,185,15 36,174,61,208,15 19,180,39,214,15 5,182,22,218,15 33,209,60,243,15 186,189,446,334,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008572.jpg 34,61,457,320,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008581.jpg 105,59,333,309,6 1,167,234,495,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008583.jpg 403,163,433,241,4 366,165,393,242,4 340,154,366,235,4 1,1,386,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008589.jpg 179,89,358,196,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008597.jpg 121,109,500,308,13 230,103,401,309,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008607.jpg 5,103,307,315,9 195,107,440,340,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008612.jpg 175,124,220,234,14 97,147,295,234,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008613.jpg 22,76,493,260,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008626.jpg 401,154,440,216,8 373,163,427,233,8 450,213,500,269,15 467,234,500,308,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008644.jpg 9,52,132,329,14 128,43,246,337,14 419,7,492,345,14 337,78,423,342,14 231,49,333,339,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008680.jpg 223,166,316,218,5 335,140,500,359,6 4,195,178,310,6 174,207,286,266,6 275,202,354,248,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008681.jpg 266,53,469,332,14 35,156,248,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008687.jpg 2,2,415,262,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008728.jpg 249,148,472,375,11 1,93,337,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008735.jpg 326,269,388,313,1 1,275,51,320,1
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008748.jpg 118,327,204,453,14 204,344,242,454,14 241,340,272,458,14 270,344,294,457,14 82,339,125,456,14 43,333,81,468,14 302,274,338,358,14 7,290,29,355,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008752.jpg 1,13,423,329,13 221,44,286,84,14 448,1,500,244,14 411,44,426,90,14 394,48,417,88,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008763.jpg 47,107,351,460,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008780.jpg 388,124,424,220,2 153,96,260,282,14 2,91,401,333,14 434,198,500,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008785.jpg 1,39,447,368,6 5,56,227,182,6 68,47,123,166,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008802.jpg 89,42,225,212,12 119,16,194,114,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008853.jpg 109,200,329,325,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008873.jpg 90,80,237,264,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008888.jpg 183,92,250,159,19 235,142,412,373,8 1,181,63,345,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008900.jpg 1,42,500,124,3 1,53,500,208,3 3,193,92,301,14 161,148,218,303,14 205,151,287,248,14 353,110,412,255,14 411,109,482,203,14 401,7,461,64,14 309,13,387,71,14 231,25,291,83,14 45,48,103,100,14 167,34,219,85,14 127,278,199,362,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008901.jpg 59,234,297,375,13 138,142,257,365,14 217,126,263,213,14 253,128,397,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008908.jpg 1,1,500,259,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008918.jpg 3,14,309,375,14 244,1,465,375,14 154,152,302,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008950.jpg 117,54,294,188,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008956.jpg 157,26,365,319,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008972.jpg 85,82,478,482,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008991.jpg 302,85,360,159,19 106,96,287,368,8 308,249,484,375,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/008994.jpg 149,149,397,360,13 2,158,132,345,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009031.jpg 227,146,258,189,16 129,98,153,116,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009039.jpg 214,273,340,323,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009048.jpg 119,308,234,404,7 180,90,313,214,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009049.jpg 283,75,440,262,13 51,79,359,327,13 227,11,345,122,14 100,16,248,269,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009056.jpg 312,208,377,271,8 335,230,408,310,8 345,238,426,328,8 151,209,203,266,8 109,229,182,309,8 95,238,175,326,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009060.jpg 51,67,500,333,6 2,105,125,224,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009064.jpg 30,71,450,343,6 454,107,500,205,6 1,41,155,202,6 174,62,222,108,14 228,68,268,110,14 28,36,105,183,14 348,59,422,165,14 425,83,452,165,14 448,87,472,172,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009081.jpg 77,63,461,324,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009084.jpg 43,77,481,375,13 127,68,237,240,11 1,217,98,375,11 451,83,500,191,8 369,83,437,180,8 313,76,375,137,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009121.jpg 160,134,304,231,6 1,110,100,208,6 46,96,141,172,6 29,56,110,108,6 391,57,473,124,6 162,19,233,69,6 420,99,500,178,6 427,148,500,248,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009156.jpg 36,74,302,191,6 158,121,500,375,6 301,75,383,109,6 410,72,475,96,6 24,82,61,99,6 284,68,341,97,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009161.jpg 19,179,423,317,5 212,247,262,364,14 280,241,323,364,14 372,241,405,326,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009184.jpg 336,1,498,180,14 1,3,446,334,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009185.jpg 140,64,433,322,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009200.jpg 311,167,361,221,19 113,136,219,226,19 240,239,335,374,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009217.jpg 9,1,325,224,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009229.jpg 320,128,500,260,13 26,133,140,245,13 412,49,496,161,14 1,80,72,255,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009240.jpg 229,87,328,174,3 397,128,489,216,14 457,119,498,192,14 305,181,499,375,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009241.jpg 135,142,244,174,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009242.jpg 76,97,485,261,17 266,82,424,214,14 109,93,240,228,14 171,173,192,232,4 51,161,89,245,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009256.jpg 132,81,496,340,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009257.jpg 128,1,211,206,4
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009259.jpg 211,98,295,192,14 167,121,339,232,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009267.jpg 24,233,76,256,6 323,240,427,272,6 198,248,294,284,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009272.jpg 14,69,487,219,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009279.jpg 342,168,500,426,8 159,79,208,181,15 187,82,277,190,19 286,77,383,185,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009309.jpg 21,74,500,375,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009335.jpg 98,147,279,208,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009336.jpg 61,78,396,328,6 72,142,116,197,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009343.jpg 167,9,419,327,14 18,157,242,301,8
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009344.jpg 293,2,486,334,14 199,98,255,172,14 233,104,316,269,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009380.jpg 87,84,397,245,12 209,41,295,184,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009390.jpg 6,19,406,328,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009402.jpg 169,88,455,333,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009413.jpg 24,70,149,264,8 26,231,181,500,14 252,9,500,361,14 48,333,500,500,10
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009432.jpg 5,90,497,260,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009435.jpg 376,141,500,294,8 1,138,252,328,17
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009474.jpg 142,1,375,365,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009483.jpg 14,19,333,487,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009502.jpg 200,89,331,227,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009540.jpg 32,107,241,306,13 238,134,365,295,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009542.jpg 8,17,251,332,14 137,116,486,331,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009553.jpg 135,167,201,198,0 239,124,309,155,0 246,153,312,184,0 255,181,319,210,0 354,83,424,116,0 359,113,424,143,0 358,141,423,173,0 362,171,425,198,0 366,195,429,221,0
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009554.jpg 1,124,295,370,14 138,136,180,218,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009556.jpg 192,3,500,375,14 93,73,266,375,14 3,146,178,374,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009568.jpg 164,145,330,275,1 185,57,291,249,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009581.jpg 9,22,171,266,15 178,121,325,264,15 335,124,500,275,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009592.jpg 100,100,240,270,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009614.jpg 7,147,188,218,6 317,149,499,216,6 429,163,500,227,6 149,156,203,210,6 241,113,429,255,14 51,199,243,319,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009619.jpg 210,137,306,251,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009621.jpg 1,1,412,476,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009625.jpg 44,96,278,433,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009633.jpg 15,170,99,247,14 106,202,119,250,4 100,166,171,257,14 421,91,500,177,14 299,90,400,184,14 156,37,392,275,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009674.jpg 74,125,324,450,13 2,138,74,375,14 98,121,156,291,14 226,128,313,401,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009680.jpg 1,107,88,268,6 41,89,414,343,6 316,82,392,274,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009719.jpg 159,106,500,413,12 6,70,419,412,12
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009739.jpg 61,66,355,500,14 48,157,246,300,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009751.jpg 75,33,403,329,18
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009771.jpg 164,217,444,375,9 90,174,433,375,9
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009785.jpg 75,63,394,320,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009787.jpg 324,4,459,260,11 1,20,147,332,15 203,123,256,191,15 280,48,327,114,15 185,33,274,118,15
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009799.jpg 18,28,489,238,11 253,180,500,333,11
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009809.jpg 61,1,398,334,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009811.jpg 2,50,368,195,3 344,96,500,195,3 438,171,468,199,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009836.jpg 192,124,302,221,3
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009842.jpg 180,1,401,332,16
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009853.jpg 2,106,128,295,8 135,2,429,343,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009873.jpg 169,128,461,258,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009877.jpg 3,102,289,500,14 270,185,326,406,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009888.jpg 202,113,316,271,19
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009896.jpg 139,134,372,323,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009908.jpg 107,110,253,268,9 277,160,317,180,2 146,70,181,119,2
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009923.jpg 112,148,252,333,7
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009924.jpg 6,36,373,500,13
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009927.jpg 70,156,444,265,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009938.jpg 137,55,320,340,13 242,1,325,52,6
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009942.jpg 11,1,221,207,14 2,9,365,332,14 265,2,500,332,14
+F:\vs_test\毕业论文\mmdet_v2\data\VOCdevkit/VOC2007/JPEGImages/009957.jpg 106,89,236,308,14 54,128,295,436,12
